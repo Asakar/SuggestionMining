@@ -12,6 +12,9 @@ A plot of the confusion matrix is shown below:
 
 ![](/images/ConfusionMatrix.png)
 
+
+The model does well in correctly classifying the majority of the suggestions in the test dataset, only miscliassifying 9 suggestions. Non-suggestions for the majority are also correctly classified by the model, only misclassifying 43 non-suggestions. 
+
 The following was used during this project:
 * python 
 * TensorFlow 
