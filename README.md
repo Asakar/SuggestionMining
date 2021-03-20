@@ -24,7 +24,7 @@ The following was used during this project:
 * Google's cloud GPU 
 * Colab notebook 
 
-The following shows the application in actions. The application parses through the data defined below and then prints out the suggestions made in the text.
+The following shows the application in action. The application parses through the data defined below and then prints out the suggestions made in the text.
 
 <img src=/images/app.png>
 <img src=/images/pred.png>
