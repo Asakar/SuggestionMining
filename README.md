@@ -23,3 +23,8 @@ The following was used during this project:
 * pandas 
 * Google's cloud GPU 
 * Colab notebook 
+
+The following shows the application in actions. The application parses through the data defined below and then prints out the suggestions made in the text.
+
+<img src=/images/application.png>
+<img src=/images/output.png>
